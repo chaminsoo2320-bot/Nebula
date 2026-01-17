@@ -1,0 +1,14 @@
+{
+  "sounds.item.shield": {
+    "category": "player",
+    "sounds": [
+      "sounds/item/shield/block1",
+      "sounds/item/shield/block2",
+      "sounds/item/shield/block3",
+      "sounds/item/shield/block4",
+      "sounds/item/shield/block5",
+      "sounds/item/shield/break"
+	  
+    ]
+  }
+}

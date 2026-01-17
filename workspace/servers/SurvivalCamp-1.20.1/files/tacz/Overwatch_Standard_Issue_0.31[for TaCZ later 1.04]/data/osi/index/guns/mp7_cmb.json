@@ -1,0 +1,7 @@
+{
+  "name": "osi.gun.mp7_cmb.name",
+  "display": "osi:mp7_cmb_display",
+  "data": "osi:mp7_cmb_data",
+  "tooltip": "osi.gun.mp7_cmb.desc",
+  "type": "smg"
+}

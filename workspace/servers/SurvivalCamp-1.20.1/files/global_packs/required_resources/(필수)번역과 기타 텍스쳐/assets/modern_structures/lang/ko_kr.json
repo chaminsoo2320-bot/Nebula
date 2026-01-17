@@ -1,0 +1,22 @@
+{
+  "entity.modern_structures.human": "레이더",
+  "item.modern_structures.batlleaxe": "오함마",
+  "item.modern_structures.tactic_chestplate": "bullet_proof_vest",
+  "item.modern_structures.tactic_leggings": "Tactic Leggings",
+  "item.modern_structures.tactic_boots": "classic Boots",
+  "item.modern_structures.human_spawn_egg": "레이더 생성 알",
+  "block.modern_structures.coarsedirtslab": "Coarse dirt slab",
+  "item.modern_structures.netherstarshard": "Nether star shard",
+  "block.modern_structures.dustrialblock": "Industrial block",
+  "block.modern_structures.dustrialtrapdoor": "Industrial trapdoor",
+  "item.modern_structures.human_2_spawn_egg": "레이더 2 생성 알",
+  "item_group.modern_structures.modernstructuremod": "MS mod",
+  "item.modern_structures.knife": "나이프",
+  "block.modern_structures.dustrialwall": "industrial wall",
+  "item.modern_structures.tacticshield": "특수 방패",
+  "item.modern_structures.tactic_helmet": "Tactic mask",
+  "block.modern_structures.dustrialblock_2": "Industrial block 2",
+  "entity.modern_structures.human_2": "레이더",
+  "item.modern_structures.crowbar": "크로우바",
+  "item.modern_structures.steel": "강철"
+}

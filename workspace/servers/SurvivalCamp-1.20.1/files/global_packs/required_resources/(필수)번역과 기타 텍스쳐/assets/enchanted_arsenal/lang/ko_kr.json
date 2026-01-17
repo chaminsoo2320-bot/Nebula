@@ -1,0 +1,22 @@
+{
+  "enchantment.enchanted_arsenal.lightweight": "경량",
+  "enchantment.enchanted_arsenal.hollow_point": "할로 포인트",
+  "enchantment.enchanted_arsenal.curse_of_overrecoiling": "반동의 저주",
+  "enchantment.enchanted_arsenal.juggernaught.desc": "저항력을 높이지만 속도를 늦춥니다.",
+  "enchantment.enchanted_arsenal.curse_of_overpressuring": "압력의 저주",
+  "enchantment.enchanted_arsenal.poison_tipped.desc": "공격받은 적은 잠시 동안 중독됩니다.",
+  "enchantment.enchanted_arsenal.hollow_point.desc": "+1 데미지를 입힐 확률이 있습니다, 레벨은 추가 피해가 발생할 가능성을 높입니다",
+  "enchantment.enchanted_arsenal.curse_of_overpressuring.desc": "총을 쏘면 때때로 과가스(사용자를 일시적으로 실명)가 발생합니다.",
+  "enchantment.enchanted_arsenal.armour_piercing.desc": "적중한 대상의 방어구에 피해를 입히며, 레벨에 따라 방어구에 입혀지는 피해량이 결정됩니다.",  
+  "enchantment.enchanted_arsenal.illuminating": "발광탄",
+  "enchantment.enchanted_arsenal.illuminating.desc": "공격받은 적을 잠시 빛나게 합니다.",
+  "enchantment.enchanted_arsenal.juggernaught": "저거넛",
+  "enchantment.enchanted_arsenal.enflamed": "화염탄",
+  "enchantment.enchanted_arsenal.poison_tipped": "독탄",
+  "enchantment.enchanted_arsenal.lightweight.desc": "속도가 증가합니다.",
+  "enchantment.enchanted_arsenal.shell_shock.desc": "타격을 받은 대상은 잠시 동안 시야가 흐려집니다.",
+  "enchantment.enchanted_arsenal.shell_shock": "포탄 충격",
+  "enchantment.enchanted_arsenal.armour_piercing": "관통탄",
+  "enchantment.enchanted_arsenal.curse_of_overrecoiling.desc": "총을 쏘았을 때 추가적인 반동으로 인해 사용자가 숨을 헐떡일 때가 있습니다(사용자의 속도를 일시적으로 늦춥니다).",
+  "enchantment.enchanted_arsenal.enflamed.desc": "공격받은 적은 잠시 동안 불타오릅니다."
+}

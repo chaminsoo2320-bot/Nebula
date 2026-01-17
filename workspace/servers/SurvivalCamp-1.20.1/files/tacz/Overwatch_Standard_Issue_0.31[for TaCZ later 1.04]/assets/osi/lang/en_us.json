@@ -1,0 +1,19 @@
+{
+  "pack.osi.name": "Overwatch Standard Issue",
+  "pack.osi.desc": "Welcom,welcom to city 17",
+
+  "osi.gun.ar2.name":"OSIPR",
+  "osi.gun.ar2.desc":"Attention ground units: mission failure will result inpermanent offworld assignment.",
+
+  "osi.gun.usp_m.name":"USP Macth",
+  "osi.gun.usp_m.desc":"603, unlawful entry.",
+
+  "osi.gun.mp7_cmb.name":"MP7 CMB",
+  "osi.gun.mp7_cmb.desc":"Worse than a pistol sometimes.",
+
+  "osi.gun.spas12.name":"SPAS 12",
+  "osi.gun.spas12.desc":"A free man shall free from theoretical physics, make her fire tow shots at onece",
+
+  "osi.ammo.pulse.name":"§bDark Energy Pulse Battery",
+  "osi.ammo.46x30_cmb.name":"§bOverwatch Standard 4.6mm Bullet "
+}

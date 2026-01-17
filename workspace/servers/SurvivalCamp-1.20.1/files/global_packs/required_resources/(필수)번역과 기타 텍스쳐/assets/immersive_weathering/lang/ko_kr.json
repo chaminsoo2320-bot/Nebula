@@ -1,0 +1,483 @@
+{
+  "itemGroup.immersive_weathering.immersive_weathering": "몰입형 날씨 변화",
+
+  "advancements.immersive_weathering.moss.title": "주기를 지속할까?",
+  "advancements.immersive_weathering.moss.description": "(이끼를 먹었습니다.), (맛은... 이끼 맛입니다.), (당신의 HP가 이끼로 덮였습니다.)",
+  "advancements.immersive_weathering.icicle.title": "몬치",
+  "advancements.immersive_weathering.icicle.description": "크런치 크런치 크런치",
+  "advancements.immersive_weathering.ice_sickle.title": "진정해",
+  "advancements.immersive_weathering.ice_sickle.description": "얼음 낫을 사용하여 블레이즈를 처치하세요",
+  "advancements.immersive_weathering.weeds.title": "잡초 제거기",
+  "advancements.immersive_weathering.weeds.description": "잡초를 몇 개 뽑아보세요. 잡초는 키 큰 풀 근처의 농지에서만 자라지만 퍼질 것입니다.",
+  "advancements.immersive_weathering.flower_crown.title": "꽃의 힘",
+  "advancements.immersive_weathering.flower_crown.description": "꽃 왕관을 써보세요, 벌들이 당신에게 귀엽다고 생각합니다.",
+  "advancements.immersive_weathering.eat_azalea_flower.title": "꽃을 먹다",
+  "advancements.immersive_weathering.eat_azalea_flower.description": "아잘레아 꽃을 먹어보세요, 당신도 원할 거예요.",
+  "advancements.immersive_weathering.fulgurite.title": "충격적인 발견",
+  "advancements.immersive_weathering.fulgurite.description": "풀구라이트를 찾아보세요, 이는 번개가 모래에 떨어질 때만 발생하는 희귀한 블록입니다.",
+  "advancements.immersive_weathering.dirts.title": "흙 팬",
+  "advancements.immersive_weathering.dirts.description": "세계를 여행하며 모든 종류의 흙을 얻으세요.",
+  "advancements.immersive_weathering.sands.title": "거칠고 투박한",
+  "advancements.immersive_weathering.sands.description": "모든 모래 블록을 얻으세요.",
+
+  "advancements.immersive_weathering.bark_off.title": "껍질 벗기기",
+  "advancements.immersive_weathering.bark_off.description": "통나무에서 껍질을 벗기세요.",
+  "advancements.immersive_weathering.bark_on.title": "껍질 붙이기",
+  "advancements.immersive_weathering.bark_on.description": "벗긴 통나무에 껍질을 붙이세요.",
+  "advancements.immersive_weathering.rust_off.title": "녹 제거-- 잠깐, 뭐라고??",
+  "advancements.immersive_weathering.rust_off.description": "철이 너무 많이 녹슬면, 녹을 벗기는 것이 불가능합니다 :pensive:",
+  "advancements.immersive_weathering.rust_on.title": "녹 붙이기",
+  "advancements.immersive_weathering.rust_on.description": "젖은 스펀지를 철 블록에 적용하세요.",
+  "advancements.immersive_weathering.crack_on.title": "금 가기",
+  "advancements.immersive_weathering.crack_on.description": "어떤 곡괭이를 사용하여 벽돌 블록에 금을 내세요.",
+  "advancements.immersive_weathering.crack_off.title": "금 없애기",
+  "advancements.immersive_weathering.crack_off.description": "해당 벽돌 아이템을 사용하여 금이 간 블록을 수리하세요.",
+  "advancements.immersive_weathering.moss_on.title": "이끼 붙이기",
+  "advancements.immersive_weathering.moss_on.description": "돌, 돌 벽돌, 자갈 또는 벽돌에 이끼 덩어리를 적용하세요.",
+  "advancements.immersive_weathering.moss_off.title": "이끼 제거하기",
+  "advancements.immersive_weathering.moss_off.description": "가위로 이끼 블록에서 이끼를 벗기세요.",
+  "advancements.immersive_weathering.moss_off_2.title": "이끼 제거하라고 했잖아",
+  "advancements.immersive_weathering.moss_off_2.description": "이끼 블록에서 이끼를 태워서 다시 자라지 않도록 석탄과 불을 사용하세요.",
+  "advancements.immersive_weathering.sand_off.title": "모래 제거하기",
+  "advancements.immersive_weathering.sand_off.description": "블록에서 모래를 삽으로 제거하세요.",
+  "advancements.immersive_weathering.sand_on.title": "모래 붙이기",
+  "advancements.immersive_weathering.sand_on.description": "돌 블록에 모래를 적용하세요.",
+  "advancements.immersive_weathering.snow_off.title": "눈 제거하기",
+  "advancements.immersive_weathering.snow_off.description": "블록에서 눈을 삽으로 제거하세요.",
+  "advancements.immersive_weathering.snow_on.title": "눈 붙이기",
+  "advancements.immersive_weathering.snow_on.description": "돌 블록에 눈덩이를 적용하세요 (던져보세요!)",
+
+  "config.immersive_weathering.general.leaves_decay_particles": "잎사귀 부패 입자",
+  "config.immersive_weathering.general.falling_leaf_particles": "떨어지는 잎사귀 입자",
+  "config.immersive_weathering.general.decay_sound": "잎사귀 부패 소리",
+
+  "config.immersive_weathering.general.block_growths": "블록 성장",
+  "config.immersive_weathering.item_interaction.block_growths.descriptionKey": "블록 성장 메커니즘이 발생해야 하나요?",
+  "config.immersive_weathering.item_interaction.drop_in_creative": "크리에이티브 모드에서 아이템 드롭",
+  "config.immersive_weathering.general.creative_tab": "IW 크리에이티브 탭",
+
+  "config.immersive_weathering.mossy_blocks.interest_for_face": "면에 대한 관심",
+  "config.immersive_weathering.mossy_blocks.interest_for_face.descriptionKey": "이웃한 이끼 블록이 이끼 확산에 얼마나 영향을 미쳐야 하나요?",
+  "config.immersive_weathering.mossy_blocks.patchiness": "불규칙성",
+  "config.immersive_weathering.mossy_blocks.patchiness.descriptionKey": "이끼 성장이 얼마나 불규칙해야 하나요?",
+  "config.immersive_weathering.mossy_blocks.immune_chance": "면역 확률",
+  "config.immersive_weathering.mossy_blocks.immune_chance.descriptionKey": "무작위 블록이 자연적으로 이끼에 면역이 될 확률은 얼마여야 하나요?",
+  "config.immersive_weathering.mossy_blocks.needs_air": "공기 필요",
+  "config.immersive_weathering.mossy_blocks.needs_air.descriptionKey": "이끼가 공기에 노출된 블록으로만 확산될 수 있어야 하나요?",
+
+  "config.immersive_weathering.cracked_blocks.cracking_drops_brick": "블록을 깨면 벽돌 아이템이 떨어져야 하나요?",
+  "config.immersive_weathering.cracked_blocks.interest_for_face": "면에 대한 관심",
+  "config.immersive_weathering.cracked_blocks.interest_for_face.descriptionKey": "이웃한 균열 블록이 균열 확산에 얼마나 영향을 미쳐야 하나요?",
+  "config.immersive_weathering.cracked_blocks.patchiness": "불규칙성",
+  "config.immersive_weathering.cracked_blocks.patchiness.descriptionKey": "균열 성장이 얼마나 불규칙해야 하나요?",
+  "config.immersive_weathering.cracked_blocks.immune_chance": "면역 확률",
+  "config.immersive_weathering.cracked_blocks.immune_chance.descriptionKey": "무작위 블록이 자연적으로 균열에 면역이 될 확률은 얼마여야 하나요?",
+  "config.immersive_weathering.cracked_blocks.needs_air": "공기 필요",
+  "config.immersive_weathering.cracked_blocks.needs_air.descriptionKey": "균열이 공기에 노출된 블록으로만 확산될 수 있어야 하나요?",
+
+  "config.immersive_weathering.icicle.react_to_vibrations": "진동에 반응",
+  "config.immersive_weathering.icicle.react_to_vibrations.descriptionKey": "근처에서 큰 소음이 발생할 때 고드름이 떨어져야 하나요?",
+  "config.immersive_weathering.icicle.spawn_rarity": "고드름 생성 확률",
+  "config.immersive_weathering.icicle.spawn_rarity.descriptionKey": "고드름이 얼마나 자주 생성되어야 하나요?",
+
+  "config.immersive_weathering.freezing.water_increment": "물 동결 강도",
+  "config.immersive_weathering.freezing.water_severity.descriptionKey": "물의 동결 강도는 얼마나 심해야 하나요?",
+  "config.immersive_weathering.freezing.icicle": "고드름 동결 강도",
+  "config.immersive_weathering.freezing.icicle.descriptionKey": "고드름의 동결 강도는 얼마나 심해야 하나요?",
+  "config.immersive_weathering.freezing.permafrost_increment": "영구 동토 동결 강도",
+  "config.immersive_weathering.freezing.permafrost.descriptionKey": "영구 동토의 동결 강도는 얼마나 심해야 하나요?",
+
+  "config.immersive_weathering.charring.fire_chars_wood": "목재 탄화 비율",
+  "config.immersive_weathering.charring.fire_chars_wood.descriptionKey": "불에 타서 목재가 탄화될 확률은 얼마여야 하나요?",
+  "config.immersive_weathering.charring.soot_spawn": "그을음 형성",
+  "config.immersive_weathering.charring.soot_spawn.descriptionKey": "불 위와 캠프파이어 연기에 인접한 표면에 그을음이 형성되어야 하나요?",
+  "config.immersive_weathering.charring.flammable_cobweb": "거미줄 가연성",
+  "config.immersive_weathering.charring.flammable_cobweb.descriptionKey": "거미줄이 가연성이어야 하나요?",
+
+  "config.immersive_weathering.generation.cryosol_feature.descriptionKey": "Cryosol과 영구 동토가 세계에 생성되어야 하나요?",
+  "config.immersive_weathering.generation.humus_feature.descriptionKey": "부엽토가 세계에 생성되어야 하나요?",
+  "config.immersive_weathering.generation.fluvisol_feature.descriptionKey": "유수토가 세계에 생성되어야 하나요?",
+  "config.immersive_weathering.generation.silt_feature.descriptionKey": "실트가 세계에 생성되어야 하나요?",
+  "config.immersive_weathering.generation.vertisol_feature.descriptionKey": "수직토가 세계에 생성되어야 하나요?",
+  "config.immersive_weathering.generation.lakebed_feature.descriptionKey": "갈라진 진흙이 세계에 생성되어야 하나요?",
+  "config.immersive_weathering.generation.icicle_feature.descriptionKey": "고드름이 세계에 생성되어야 하나요?",
+  "config.immersive_weathering.generation.roots_feature.descriptionKey": "어두운 숲 동굴에 매달린 뿌리가 생성되어야 하나요?",
+  "config.immersive_weathering.generation.cryosol_feature": "Cryosol 특성",
+  "config.immersive_weathering.generation.humus_feature": "부엽토 특성",
+  "config.immersive_weathering.generation.fluvisol_feature": "유수토 특성",
+  "config.immersive_weathering.generation.silt_feature": "실트 특성",
+  "config.immersive_weathering.generation.vertisol_feature": "수직토 특성",
+  "config.immersive_weathering.generation.lakebed_feature": "갈라진 진흙 특성",
+  "config.immersive_weathering.generation.icicle_feature": "고드름 특성",
+  "config.immersive_weathering.generation.roots_feature": "뿌리 특성",
+
+  "config.immersive_weathering.item_interaction.cauldron_washing": "가마 세척",
+  "config.immersive_weathering.item_interaction.pickaxe_cracking": "곡괭이 균열",
+  "config.immersive_weathering.item_interaction.pickaxe_cracking_shift": "웅크린 곡괭이 균열",
+  "config.immersive_weathering.item_interaction.brick_breaking": "벽돌 깨기",
+  "config.immersive_weathering.item_interaction.piston_sliming": "피스톤 슬라임",
+  "config.immersive_weathering.item_interaction.soil_shearing": "토양 절단",
+  "config.immersive_weathering.item_interaction.grass_flinting": "토양 부싯돌",
+  "config.immersive_weathering.item_interaction.azalea_shearing": "아잘레아 절단",
+  "config.immersive_weathering.item_interaction.moss_shearing": "이끼 절단",
+  "config.immersive_weathering.item_interaction.moss_burning": "이끼 태우기",
+  "config.immersive_weathering.item_interaction.charred_block_igniting": "탄 블록 점화",
+  "config.immersive_weathering.item_interaction.shovel_extinguish": "삽으로 끄기",
+  "config.immersive_weathering.item_interaction.sponge_rusting": "스펀지 녹",
+  "config.immersive_weathering.item_interaction.sponge_rust_drying": "스펀지가 녹에서 마르기",
+  "config.immersive_weathering.item_interaction.axe_stripping": "도끼 벗기기",
+  "config.immersive_weathering.item_interaction.axe_rusting": "도끼 녹",
+
+  "config.immersive_weathering.food.icicle_food": "먹을 수 있는 고드름",
+  "config.immersive_weathering.food.icicle_fire_resistance": "고드름의 화염 저항",
+
+  "config.immersive_weathering.misc.mulch_grows_crops": "멀칭이 작물을 자람",
+  "config.immersive_weathering.misc.composter_dirt": "퇴비통이 흙을 준다",
+  "config.immersive_weathering.misc.generic_bark": "일반 나무 껍질 아이템",
+  "config.immersive_weathering.misc.feather_falling_farmers": "깃털 낙하가 짓밟기를 방지",
+  "config.immersive_weathering.misc.leggings_prevents_thorn_damage": "레깅스가 가시 피해를 방지",
+  "config.immersive_weathering.misc.desire_paths": "원하는 경로",
+  "config.immersive_weathering.misc.desire_path_rate": "원하는 경로 비율",
+  "config.immersive_weathering.misc.grass_over_mycelium": "풀은 균사 위로 퍼진다",
+  "config.immersive_weathering.misc.mycelium_over_grass": "균사는 풀 위로 퍼진다",
+
+  "config.immersive_weathering.leaf_piles.leaf_piles_slow": "잎 더미 느려짐",
+  "config.immersive_weathering.leaf_piles.spawn_entity_from_decay": "부패하는 잎이 떨어짐",
+  "config.immersive_weathering.leaf_piles.leaf_piles_spawn_chance": "더미 형성 확률",
+  "config.immersive_weathering.leaf_piles.reach": "지면 탐지 범위",
+  "config.immersive_weathering.leaf_piles.max_pile_height": "최대 자연 더미 높이",
+  "config.immersive_weathering.leaf_piles.leaf_piles_blacklist": "잎 더미 블랙리스트",
+
+  "config.immersive_weathering.thin_ice.natural_melting": "자연적인 녹음",
+
+  "config.immersive_weathering.lightning_growths.vitrified_lightning": "풀구라이트 형성",
+  "config.immersive_weathering.lightning_growths.fulgurite_chance": "풀구라이트 형성 확률",
+
+  "config.immersive_weathering.rusting.rusting": "철 녹이 발생하도록 설정",
+  "config.immersive_weathering.rusting.rusting_influence_radius": "녹이 발생하는 영향 반경",
+  "config.immersive_weathering.rusting.rusting_rate": "녹이 발생하는 비율",
+  "config.immersive_weathering.rusting.rust_streaking": "비 오는 날 녹이 흐르는 현상",
+
+  "death.attack.icicle": "%1$s가 고드름에 찔렸습니다",
+  "death.attack.icicle.player": "%1$s가 %2$s와 싸우는 중에 고드름에 찔렸습니다",
+  "death.attack.fallingIcicle": "%1$s가 떨어지는 고드름에 찔렸습니다",
+  "death.attack.fallingIcicle.player": "%1$s가 %2$s와 싸우는 중에 떨어지는 고드름에 찔렸습니다",
+
+  "subtitles.block.icicle.land": "고드름이 떨어집니다",
+
+  "tooltip.immersive_weathering.adjacent": "흐르는 용암 옆에 배치됨",
+  "tooltip.immersive_weathering.below": "흐르는 용암 아래에 배치됨",
+  "tooltip.immersive_weathering.rising": "상승하는 기포 기둥",
+  "tooltip.immersive_weathering.sinking": "하강하는 기포 기둥",
+
+  "tag.immersive_weathering.weathered_iron": "풍화된 철",
+  "tag.immersive_weathering.exposed_iron": "노출된 철",
+  "tag.immersive_weathering.clean_iron": "깨끗한 철",
+  "tag.immersive_weathering.rusted_iron": "녹슨 철",
+  "tag.immersive_weathering.weathered_iron_smelting": "제련용 풍화된 철",
+  "tag.immersive_weathering.exposed_iron_smelting": "제련용 노출된 철",
+  "tag.immersive_weathering.clean_iron_smelting": "제련용 깨끗한 철",
+  "tag.immersive_weathering.rusted_iron_smelting": "제련용 녹슨 철",
+  "tag.immersive_weathering.flammable_planks": "가연성 판자",
+  "tag.immersive_weathering.flammable_fence_gates": "가연성 울타리 문",
+  "tag.immersive_weathering.flammable_stairs": "가연성 계단",
+  "tag.immersive_weathering.flammable_slabs": "가연성 슬랩",
+  "tag.immersive_weathering.flammable_fences": "가연성 울타리",
+  "tag.immersive_weathering.leaf_piles": "잎 더미",
+  "tag.immersive_weathering.bark": "나무 껍질",
+  "tag.immersive_weathering.bricks": "벽돌",
+  "tag.immersive_weathering.scales": "버섯 비늘",
+  "tag.immersive_weathering.wax": "왁스",
+  "tag.curios.head": "머리 호기심",
+  "tag.trinkets.head.hat": "모자 장신구",
+
+  "block.immersive_weathering.icicle": "고드름",
+  "item.immersive_weathering.ice_sickle": "얼음 낫",
+  "block.immersive_weathering.frost": "서리",
+  "block.immersive_weathering.frosty_grass": "서리 낀 풀",
+  "block.immersive_weathering.frosty_fern": "서리 낀 양치식물",
+  "block.immersive_weathering.frosty_glass": "서리 낀 유리",
+  "block.immersive_weathering.frosty_glass_pane": "서리 낀 유리 판",
+  "block.immersive_weathering.tinted_glass_pane": "색조 유리 판",
+  "block.immersive_weathering.thin_ice": "얇은 얼음",
+  
+  "block.immersive_weathering.vitrified_sand": "유리화된 모래",
+  "block.immersive_weathering.fulgurite": "풀구라이트",
+  
+  "item.immersive_weathering.azalea_flowers": "아잘레아 꽃",
+  "item.immersive_weathering.flower_crown": "꽃 왕관",
+  "block.immersive_weathering.moss": "이끼 덩어리",
+  "item.immersive_weathering.golden_moss_clump": "금빛 이끼 덩어리",
+  "item.immersive_weathering.enchanted_golden_moss_clump": "마법이 걸린 금빛 이끼 덩어리",
+
+  "block.immersive_weathering.oak_leaf_pile": "참나무 잎 더미",
+  "block.immersive_weathering.spruce_leaf_pile": "가문비나무 잎 더미",
+  "block.immersive_weathering.birch_leaf_pile": "자작나무 잎 더미",
+  "block.immersive_weathering.jungle_leaf_pile": "정글 잎 더미",
+  "block.immersive_weathering.acacia_leaf_pile": "아카시아 잎 더미",
+  "block.immersive_weathering.dark_oak_leaf_pile": "검은 참나무 잎 더미",
+  "block.immersive_weathering.azalea_leaf_pile": "아잘레아 잎 더미",
+  "block.immersive_weathering.flowering_azalea_leaf_pile": "꽃이 핀 아잘레아 잎 더미",
+  "block.immersive_weathering.azalea_flower_pile": "아잘레아 꽃 더미",
+
+  "item.immersive_weathering.oak_bark": "참나무 껍질",
+  "item.immersive_weathering.spruce_bark": "가문비나무 껍질",
+  "item.immersive_weathering.birch_bark": "자작나무 껍질",
+  "item.immersive_weathering.jungle_bark": "정글 껍질",
+  "item.immersive_weathering.acacia_bark": "아카시아 껍질",
+  "item.immersive_weathering.dark_oak_bark": "검은 참나무 껍질",
+  "item.immersive_weathering.crimson_scales": "진홍색 비늘",
+  "item.immersive_weathering.warped_scales": "뒤틀린 비늘",
+
+  "block.immersive_weathering.ivy": "담쟁이덩굴",
+  "block.immersive_weathering.dune_grass": "모래언덕 풀",
+  "block.immersive_weathering.weeds": "잡초",
+  "block.immersive_weathering.soot": "그을음",
+  "block.immersive_weathering.sand_layer_block": "모래 더미",
+  "block.immersive_weathering.red_sand_layer_block": "붉은 모래 더미",
+  "item.immersive_weathering.tallow": "동물성 지방",
+
+  "block.immersive_weathering.silt": "미사",
+  "block.immersive_weathering.grassy_silt": "풀 미사",
+  "block.immersive_weathering.rooted_silt": "뿌리 미사",
+  "block.immersive_weathering.rooted_grassy_silt": "뿌리 풀 미사",
+  "block.immersive_weathering.silty_farmland": "미사 농지",
+
+  "block.immersive_weathering.sandy_dirt": "모래 흙",
+  "block.immersive_weathering.grassy_sandy_dirt": "풀 모래 흙",
+  "block.immersive_weathering.rooted_sandy_dirt": "뿌리 모래 흙",
+  "block.immersive_weathering.rooted_grassy_sandy_dirt": "뿌리 풀 모래 흙",
+  "block.immersive_weathering.sandy_farmland": "모래 농지",
+
+  "block.immersive_weathering.loam": "양토",
+  "block.immersive_weathering.grassy_loam": "풀 양토",
+  "block.immersive_weathering.rooted_loam": "뿌리 양토",
+  "block.immersive_weathering.rooted_grassy_loam": "뿌리 풀 양토",
+  "block.immersive_weathering.loamy_farmland": "양토 농지",
+
+  "block.immersive_weathering.earthen_clay": "흙 점토",
+  "block.immersive_weathering.grassy_earthen_clay": "풀 흙 점토",
+  "block.immersive_weathering.earthen_clay_farmland": "흙 점토 농지",
+
+  "block.immersive_weathering.permafrost": "영구 동토",
+  "block.immersive_weathering.grassy_permafrost": "풀 영구 동토",
+
+  "block.immersive_weathering.mulch_block": "멀치",
+  "block.immersive_weathering.nulch_block": "널치",
+
+  "block.immersive_weathering.rooted_grass_block": "뿌리 풀 블록",
+
+  "block.immersive_weathering.charred_log": "그을린 통나무",
+  "block.immersive_weathering.charred_planks": "그을린 판자",
+  "block.immersive_weathering.charred_slab": "그을린 슬랩",
+  "block.immersive_weathering.charred_stairs": "그을린 계단",
+  "block.immersive_weathering.charred_fence": "그을린 울타리",
+  "block.immersive_weathering.charred_fence_gate": "그을린 울타리 문",
+
+  "block.immersive_weathering.earthen_clay": "흙 점토",
+  "block.immersive_weathering.grassy_earthen_clay": "풀 흙 점토",
+  "block.immersive_weathering.earthen_clay_farmland": "흙 점토 농지",
+
+  "block.immersive_weathering.permafrost": "영구 동토",
+  "block.immersive_weathering.grassy_permafrost": "풀 영구 동토",
+
+  "block.immersive_weathering.mulch_block": "멀치",
+  "block.immersive_weathering.nulch_block": "널치",
+
+  "block.immersive_weathering.rooted_grass_block": "뿌리 풀 블록",
+
+  "block.immersive_weathering.charred_log": "그을린 통나무",
+  "block.immersive_weathering.charred_planks": "그을린 판자",
+  "block.immersive_weathering.charred_slab": "그을린 슬랩",
+  "block.immersive_weathering.charred_stairs": "그을린 계단",
+  "block.immersive_weathering.charred_fence": "그을린 울타리",
+  "block.immersive_weathering.charred_fence_gate": "그을린 울타리 문",
+
+  "block.immersive_weathering.snowy_cobblestone": "눈 덮인 자갈",
+  "block.immersive_weathering.snowy_cobblestone_stairs": "눈 덮인 자갈 계단",
+  "block.immersive_weathering.snowy_cobblestone_slab": "눈 덮인 자갈 슬랩",
+  "block.immersive_weathering.snowy_cobblestone_wall": "눈 덮인 자갈 벽",
+
+  "block.immersive_weathering.snowy_stone_bricks": "눈 덮인 돌 벽돌",
+  "block.immersive_weathering.snowy_chiseled_stone_bricks": "눈 덮인 조각돌 벽돌",
+  "block.immersive_weathering.snowy_stone_brick_stairs": "눈 덮인 돌 벽돌 계단",
+  "block.immersive_weathering.snowy_stone_brick_slab": "눈 덮인 돌 벽돌 슬랩",
+  "block.immersive_weathering.snowy_stone_brick_wall": "눈 덮인 돌 벽돌 벽",
+
+  "block.immersive_weathering.sandy_stone": "모래 돌",
+  "block.immersive_weathering.sandy_stone_stairs": "모래 돌 계단",
+  "block.immersive_weathering.sandy_stone_slab": "모래 돌 슬랩",
+  "block.immersive_weathering.sandy_stone_wall": "모래 돌 벽",
+
+  "block.immersive_weathering.sandy_cobblestone": "모래 자갈",
+  "block.immersive_weathering.sandy_cobblestone_stairs": "모래 자갈 계단",
+  "block.immersive_weathering.sandy_cobblestone_slab": "모래 자갈 슬랩",
+  "block.immersive_weathering.sandy_cobblestone_wall": "모래 자갈 벽",
+
+  "block.immersive_weathering.sandy_stone_bricks": "모래 돌 벽돌",
+  "block.immersive_weathering.sandy_chiseled_stone_bricks": "모래 조각돌 벽돌",
+  "block.immersive_weathering.sandy_stone_brick_stairs": "모래 돌 벽돌 계단",
+  "block.immersive_weathering.sandy_stone_brick_slab": "모래 돌 벽돌 슬랩",
+  "block.immersive_weathering.sandy_stone_brick_wall": "모래 돌 벽돌 벽",
+
+  "block.immersive_weathering.cracked_bricks": "금이 간 벽돌",
+  "block.immersive_weathering.cracked_brick_stairs": "금이 간 벽돌 계단",
+  "block.immersive_weathering.cracked_brick_slab": "금이 간 벽돌 슬랩",
+  "block.immersive_weathering.cracked_brick_wall": "금이 간 벽돌 벽",
+
+  "block.immersive_weathering.cracked_prismarine_bricks": "금이 간 프리즈마린 벽돌",
+  "block.immersive_weathering.cracked_prismarine_brick_stairs": "금이 간 프리즈마린 벽돌 계단",
+  "block.immersive_weathering.cracked_prismarine_brick_slab": "금이 간 프리즈마린 벽돌 슬랩",
+  "block.immersive_weathering.cracked_prismarine_brick_wall": "금이 간 프리즈마린 벽돌 벽",
+  "block.immersive_weathering.prismarine_brick_wall": "프리즈마린 벽돌 벽",
+  "block.immersive_weathering.dark_prismarine_wall": "어두운 프리즈마린 벽",
+  "block.immersive_weathering.chiseled_prismarine_bricks": "조각된 프리즈마린 벽돌",
+
+  "block.immersive_weathering.cracked_end_stone_bricks": "금이 간 엔드 스톤 벽돌",
+  "block.immersive_weathering.cracked_end_stone_brick_stairs": "금이 간 엔드 스톤 벽돌 계단",
+  "block.immersive_weathering.cracked_end_stone_brick_slab": "금이 간 엔드 스톤 벽돌 슬랩",
+  "block.immersive_weathering.cracked_end_stone_brick_wall": "금이 간 엔드 스톤 벽돌 벽",
+
+  "block.immersive_weathering.cracked_stone_brick_stairs": "금이 간 돌 벽돌 계단",
+  "block.immersive_weathering.cracked_stone_brick_slab": "금이 간 돌 벽돌 슬랩",
+  "block.immersive_weathering.cracked_stone_brick_wall": "금이 간 돌 벽돌 벽",
+
+  "block.immersive_weathering.cracked_nether_brick_stairs": "금이 간 네더 벽돌 계단",
+  "block.immersive_weathering.cracked_nether_brick_slab": "금이 간 네더 벽돌 슬랩",
+  "block.immersive_weathering.cracked_nether_brick_wall": "금이 간 네더 벽돌 벽",
+
+  "block.immersive_weathering.cracked_deepslate_brick_stairs": "금이 간 딥슬레이트 벽돌 계단",
+  "block.immersive_weathering.cracked_deepslate_brick_slab": "금이 간 딥슬레이트 벽돌 슬랩",
+  "block.immersive_weathering.cracked_deepslate_brick_wall": "금이 간 딥슬레이트 벽돌 벽",
+
+  "block.immersive_weathering.cracked_deepslate_tile_stairs": "금이 간 딥슬레이트 타일 계단",
+  "block.immersive_weathering.cracked_deepslate_tile_slab": "금이 간 딥슬레이트 타일 슬랩",
+  "block.immersive_weathering.cracked_deepslate_tile_wall": "금이 간 딥슬레이트 타일 벽",
+
+  "block.immersive_weathering.cracked_polished_blackstone_brick_stairs": "금이 간 연마된 흑요석 벽돌 계단",
+  "block.immersive_weathering.cracked_polished_blackstone_brick_slab": "금이 간 연마된 흑요석 벽돌 슬랩",
+  "block.immersive_weathering.cracked_polished_blackstone_brick_wall": "금이 간 연마된 흑요석 벽돌 벽",
+
+  "item.immersive_weathering.mortar": "몰타르",
+  "item.immersive_weathering.stone_brick": "돌 벽돌",
+  "item.immersive_weathering.blackstone_brick": "흑요석 벽돌",
+  "item.immersive_weathering.deepslate_brick": "딥슬레이트 벽돌",
+  "item.immersive_weathering.deepslate_tile": "딥슬레이트 타일",
+  "item.immersive_weathering.end_stone_brick": "끝돌 벽돌",
+  "item.immersive_weathering.prismarine_brick": "프리즈마린 벽돌",
+
+  "item.immersive_weathering.steel_wool": "강철 울",
+
+  "block.immersive_weathering.cut_iron": "절단된 철",
+  "block.immersive_weathering.exposed_cut_iron": "노출된 절단 철",
+  "block.immersive_weathering.weathered_cut_iron": "풍화된 절단 철",
+  "block.immersive_weathering.rusted_cut_iron": "녹슨 절단 철",
+
+  "block.immersive_weathering.cut_iron_stairs": "절단된 철 계단",
+  "block.immersive_weathering.exposed_cut_iron_stairs": "노출된 절단 철 계단",
+  "block.immersive_weathering.weathered_cut_iron_stairs": "풍화된 절단 철 계단",
+  "block.immersive_weathering.rusted_cut_iron_stairs": "녹슨 절단 철 계단",
+
+  "block.immersive_weathering.cut_iron_slab": "절단된 철 슬랩",
+  "block.immersive_weathering.exposed_cut_iron_slab": "노출된 절단 철 슬랩",
+  "block.immersive_weathering.weathered_cut_iron_slab": "풍화된 절단 철 슬랩",
+  "block.immersive_weathering.rusted_cut_iron_slab": "녹슨 절단 철 슬랩",
+
+  "block.immersive_weathering.waxed_cut_iron": "왁스 처리된 절단 철",
+  "block.immersive_weathering.waxed_exposed_cut_iron": "왁스 처리된 노출된 절단 철",
+  "block.immersive_weathering.waxed_weathered_cut_iron": "왁스 처리된 풍화된 절단 철",
+  "block.immersive_weathering.waxed_rusted_cut_iron": "왁스 처리된 녹슨 절단 철",
+
+  "block.immersive_weathering.waxed_cut_iron_stairs": "왁스 처리된 절단 철 계단",
+  "block.immersive_weathering.waxed_exposed_cut_iron_stairs": "왁스 처리된 노출된 절단 철 계단",
+  "block.immersive_weathering.waxed_weathered_cut_iron_stairs": "왁스 처리된 풍화된 절단 철 계단",
+  "block.immersive_weathering.waxed_rusted_cut_iron_stairs": "왁스 처리된 녹슨 절단 철 계단",
+
+  "block.immersive_weathering.waxed_cut_iron_slab": "왁스 처리된 절단 철 슬랩",
+  "block.immersive_weathering.waxed_exposed_cut_iron_slab": "왁스 처리된 노출된 절단 철 슬랩",
+  "block.immersive_weathering.waxed_weathered_cut_iron_slab": "왁스 처리된 풍화된 절단 철 슬랩",
+  "block.immersive_weathering.waxed_rusted_cut_iron_slab": "왁스 처리된 녹슨 절단 철 슬랩",
+
+  "block.immersive_weathering.plate_iron": "판철",
+  "block.immersive_weathering.exposed_plate_iron": "노출된 판철",
+  "block.immersive_weathering.weathered_plate_iron": "풍화된 판철",
+  "block.immersive_weathering.rusted_plate_iron": "녹슨 판철",
+
+  "block.immersive_weathering.plate_iron_stairs": "판철 계단",
+  "block.immersive_weathering.exposed_plate_iron_stairs": "노출된 판철 계단",
+  "block.immersive_weathering.weathered_plate_iron_stairs": "풍화된 판철 계단",
+  "block.immersive_weathering.rusted_plate_iron_stairs": "녹슨 판철 계단",
+
+  "block.immersive_weathering.plate_iron_slab": "판철 슬랩",
+  "block.immersive_weathering.exposed_plate_iron_slab": "노출된 판철 슬랩",
+  "block.immersive_weathering.weathered_plate_iron_slab": "풍화된 판철 슬랩",
+  "block.immersive_weathering.rusted_plate_iron_slab": "녹슨 판철 슬랩",
+
+  "block.immersive_weathering.waxed_plate_iron": "왁스 처리된 판철",
+  "block.immersive_weathering.waxed_exposed_plate_iron": "노출된 왁스 처리된 판철",
+  "block.immersive_weathering.waxed_weathered_plate_iron": "풍화된 왁스 처리된 판철",
+  "block.immersive_weathering.waxed_rusted_plate_iron": "녹슨 왁스 처리된 판철",
+
+  "block.immersive_weathering.waxed_plate_iron_stairs": "왁스 처리된 판철 계단",
+  "block.immersive_weathering.waxed_exposed_plate_iron_stairs": "노출된 왁스 처리된 판철 계단",
+  "block.immersive_weathering.waxed_weathered_plate_iron_stairs": "풍화된 왁스 처리된 판철 계단",
+  "block.immersive_weathering.waxed_rusted_plate_iron_stairs": "녹슨 왁스 처리된 판철 계단",
+
+  "block.immersive_weathering.waxed_plate_iron_slab": "왁스 처리된 판철 슬랩",
+  "block.immersive_weathering.waxed_exposed_plate_iron_slab": "노출된 왁스 처리된 판철 슬랩",
+  "block.immersive_weathering.waxed_weathered_plate_iron_slab": "풍화된 왁스 처리된 판철 슬랩",
+  "block.immersive_weathering.waxed_rusted_plate_iron_slab": "녹슨 왁스 처리된 판철 슬랩",
+
+  "block.immersive_weathering.exposed_iron_door": "노출된 철문",
+  "block.immersive_weathering.weathered_iron_door": "풍화된 철문",
+  "block.immersive_weathering.rusted_iron_door": "녹슨 철문",
+
+  "block.immersive_weathering.exposed_iron_trapdoor": "노출된 철 덮개",
+  "block.immersive_weathering.weathered_iron_trapdoor": "풍화된 철 덮개",
+  "block.immersive_weathering.rusted_iron_trapdoor": "녹슨 철 덮개",
+
+  "block.immersive_weathering.exposed_iron_bars": "노출된 철창",
+  "block.immersive_weathering.weathered_iron_bars": "풍화된 철창",
+  "block.immersive_weathering.rusted_iron_bars": "녹슨 철창",
+
+  "block.immersive_weathering.waxed_iron_door": "왁스 처리된 철문",
+  "block.immersive_weathering.waxed_exposed_iron_door": "노출된 왁스 처리된 철문",
+  "block.immersive_weathering.waxed_weathered_iron_door": "풍화된 왁스 처리된 철문",
+  "block.immersive_weathering.waxed_rusted_iron_door": "녹슨 왁스 처리된 철문",
+
+  "block.immersive_weathering.waxed_iron_trapdoor": "왁스 처리된 철 덮개",
+  "block.immersive_weathering.waxed_exposed_iron_trapdoor": "노출된 왁스 처리된 철 덮개",
+  "block.immersive_weathering.waxed_weathered_iron_trapdoor": "풍화된 왁스 처리된 철 덮개",
+  "block.immersive_weathering.waxed_rusted_iron_trapdoor": "녹슨 왁스 처리된 철 덮개",
+
+  "block.immersive_weathering.waxed_iron_bars": "왁스 처리된 철창",
+  "block.immersive_weathering.waxed_exposed_iron_bars": "노출된 왁스 처리된 철창",
+  "block.immersive_weathering.waxed_weathered_iron_bars": "풍화된 왁스 처리된 철창",
+  "block.immersive_weathering.waxed_rusted_iron_bars": "녹슨 왁스 처리된 철창",
+
+  "item.immersive_weathering.bark": "%s 나무 껍질",
+  "block.immersive_weathering.leaf_pile": "%s 나뭇잎 더미",
+
+  "sound.immersive_weathering.ice.crack": "얇은 얼음이 갈라지는 소리"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+#Movement master switch.
+enabled = false
+#Enable Fall Damage.
+fall_damage = true
+#Show your SSJ (the white numbers) under your crosshair.
+showSSJ = true
+#Show your strafe efficiency (the percentage) under your crosshair.
+showEfficiency = true
+#Show your current speed in the bottom left.
+showSpeed = true
+#Ground friction.
+sv_friction = 0.35
+#Ground acceleration.
+sv_accelerate = 0.1
+#Air acceleration.
+sv_airaccelerate = 1.0E99
+#Max air acceleration per tick.
+sv_maxairspeed = 0.02325
+#Ground speed multiplier.
+speed_mul = 2.2
+#Gravity value. Yes it can be negative.
+sv_gravity = 0.066
+

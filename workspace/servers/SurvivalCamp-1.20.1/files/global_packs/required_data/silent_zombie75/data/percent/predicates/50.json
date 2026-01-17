@@ -1,0 +1,13 @@
+[
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type": "#spore:fungus_entities"
+    }
+  },
+  {
+    "condition": "minecraft:random_chance",
+    "chance": 0.85
+  }
+]

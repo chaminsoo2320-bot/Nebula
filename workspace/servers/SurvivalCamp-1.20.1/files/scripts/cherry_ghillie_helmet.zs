@@ -1,0 +1,2 @@
+craftingTable.remove(<item:marbledsarsenal:cherry_ghillie_helmet>);
+craftingTable.addShaped("cherry_ghillie_helmet", <item:marbledsarsenal:cherry_ghillie_helmet> * 1, [[<item:minecraft:quartz>, <item:minecraft:quartz>, <item:minecraft:quartz>], [<item:minecraft:quartz>, <item:mcore:titanium_helmet>, <item:minecraft:quartz>], [<item:minecraft:quartz>, <item:minecraft:quartz>, <item:minecraft:quartz>]]);

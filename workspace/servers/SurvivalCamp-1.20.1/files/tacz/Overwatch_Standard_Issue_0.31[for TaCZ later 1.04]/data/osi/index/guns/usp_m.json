@@ -1,0 +1,7 @@
+{
+  "name": "osi.gun.usp_m.name",
+  "display": "osi:usp_m_display",
+  "data": "osi:usp_m_data",
+  "tooltip": "osi.gun.usp_m.desc",
+  "type": "pistol"
+}

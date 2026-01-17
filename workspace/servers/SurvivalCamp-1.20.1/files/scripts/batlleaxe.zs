@@ -1,0 +1,1 @@
+craftingTable.addShaped("batlleaxe", <item:modern_structures:batlleaxe> * 1, [[<item:modern_structures:steel>, <item:modern_structures:steel>, <item:modern_structures:steel>], [<item:modern_structures:steel>, <item:modern_structures:steel>, <item:modern_structures:steel>], [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);

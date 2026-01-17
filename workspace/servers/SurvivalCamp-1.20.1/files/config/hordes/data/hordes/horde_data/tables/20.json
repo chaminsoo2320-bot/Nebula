@@ -1,0 +1,75 @@
+[
+	{
+		"entity": "spore:leaper",
+		"weight": 1,
+		"first_day": 0,
+		"last_day": 0,
+		"min_spawns": 4,
+		"max_spawns": 4
+	},
+	{
+		"entity": "spore:slasher",
+		"weight": 1,
+		"first_day": 0,
+		"last_day": 0,
+		"min_spawns": 1,
+		"max_spawns": 1
+	},	
+	{
+		"entity": "spore:stalker",
+		"weight": 1,
+		"first_day": 0,
+		"last_day": 0,
+		"min_spawns": 3,
+		"max_spawns": 3
+	},	
+	{
+		"entity": "spore:thorn",
+		"weight": 1,
+		"first_day": 0,
+		"last_day": 0,
+		"min_spawns": 1,
+		"max_spawns": 1
+	},
+	{
+		"entity": "spore:brute",
+		"weight": 1,
+		"first_day": 0,
+		"last_day": 0,
+		"min_spawns": 1,
+		"max_spawns": 1
+	},
+	{
+		"entity": "spore:wendigo",
+		"weight": 1,
+		"first_day": 0,
+		"last_day": 0,
+		"min_spawns": 1,
+		"max_spawns": 1
+	},	
+	{
+		"entity": "spore:inquisitor",
+		"weight": 1,
+		"first_day": 0,
+		"last_day": 0,
+		"min_spawns": 1,
+		"max_spawns": 1
+	},	
+	{
+		"entity": "spore:brot",
+		"weight": 1,
+		"first_day": 0,
+		"last_day": 0,
+		"min_spawns": 1,
+		"max_spawns": 1
+	},	
+	{
+		"entity": "minecraft:zombified_piglin",
+		"weight": 1,
+		"first_day": 0,
+		"last_day": 0,
+		"min_spawns": 8,
+		"max_spawns": 8,
+		"nbt": "{HandItems:[{}, {id:\"minecraft:iron_pickaxe\",Count:1b}], ArmorItems:[{id:\"spore:inf_boots\",Count:1b}, {id:\"spore:inf_pants\",Count:1b}, {id:\"spore:inf_chest\",Count:1b}, {id:\"spore:inf_helmet\",Count:1b}], ArmorDropChances:[0.0f, 0.0f, 0.0f, 0.0f]}"
+	}
+]

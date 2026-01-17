@@ -1,0 +1,7 @@
+{
+  "entity.parrot.imitate.ghast": {
+    "sounds": [
+      "mob/parrot/imitate/ghast"
+    ]
+  }
+}

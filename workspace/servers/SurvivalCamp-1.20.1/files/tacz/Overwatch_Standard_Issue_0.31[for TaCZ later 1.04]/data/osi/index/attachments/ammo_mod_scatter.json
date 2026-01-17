@@ -1,0 +1,7 @@
+{
+  "name": "osi.attachment.ammo_mod_scatter.name",
+  "display": "osi:ammo_mod_scatter_display",
+  "data": "osi:ammo_mod_scatter_data",
+  "tooltip": "osi.attachment.ammo_mod_scatter.desc",
+  "type": "extended_mag"
+}

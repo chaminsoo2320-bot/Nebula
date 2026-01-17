@@ -1,0 +1,53 @@
+{
+  "model": "osi:gun/spas12_geo",
+  "texture": "osi:gun/uv/spas12",
+  "hud": "osi:gun/hud/spas12_icon",
+  //"lod":{
+
+  //},
+  "slot": "osi:gun/slot/spas12",
+  "animation": "osi:spas12",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1.2, 1.2, 1.2]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1
+  },
+  "sounds": {
+    "inspect": "osi:spas12/inspect",
+    "inspect_empty": "osi:spas12/inspect_empty",
+    "draw": "tacz:aa12/aa12_draw",
+    "shoot": "osi:spas12/shoot",
+    "shoot_3p": "osi:spas12/shoot_3p",
+    "silence": "osi:ai_awp/awp_silence",
+    "silence_3p": "tacz:ai_awp/awp_silence_3p",
+    "bolt": "osi:spas12/bolt",
+    "put_away": "tacz:db_short/db_short_put_away",
+    "melee_push": "tacz:melee_stock/melee_stock_02",
+    "melee_stock": "tacz:melee_stock/melee_stock_03"
+  },
+  "state_machine": "tacz:m870_state_machine",
+  "state_machine_param": {
+    "bolt_shell_ejecting_time": 0.17,
+    "intro_shell_ejecting_time": 0.4
+  },
+  "offhand_show": {
+    "pos": [-2, 20, 4],
+    "rotate": [0, 0, 45],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-4, 26, 3],
+      "rotate": [-90, -5, -90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

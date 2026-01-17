@@ -1,0 +1,50 @@
+{
+  "model": "osi:gun/ar2_geo",
+  "texture": "osi:gun/uv/ar2",
+  
+  "hud": "osi:gun/hud/ar2_icon",
+  "slot": "osi:gun/slot/ar2",
+  "animation": "osi:ar2",
+  "use_default_animation": "rifle",
+  "third_person_animation": "default",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.4, 0.4, 0.4],
+      "ground": [0.4,0.4, 0.4],
+      "fixed": [1, 1, 1]
+    }
+  },
+  "muzzle_flash": {
+    "texture": "osi:flash/ar2_muzzle_flash",
+    "scale": 1
+  },
+  "shell": {
+
+  },
+  "sounds": {
+    "shoot": "osi:ar2/ar2_shoot",
+    "shoot_3p": "osi:ar2/ar2_shoot_3p",
+    "reload_empty": "osi:ar2/ar2_reload_empty",
+    "reload_tactical": "osi:ar2/ar2_reload_tactical",
+    "inspect": "osi:ar2/ar2_inspect",
+    "inspect_empty": "osi:ar2/ar2_inspect_empty",
+    "draw": "tacz:m4a1/m4a1_draw",
+    "put_away": "tacz:m4a1/m4a1_put_away",
+    "silence": "tacz:m4a1/m4a1_silence",
+    "silence_3p": "tacz:m4a1/m4a1_silence_3p",
+    "melee_push": "tacz:melee_stock/melee_stock_01",
+    "melee_stock": "tacz:melee_stock/melee_stock_02"
+  },
+  "offhand_show": {
+    "pos": [1, 19, 4],
+    "rotate": [0, 0, 50],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-1, 19, 3],
+      "rotate": [-180, 0, 130],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "item.gundurability.brass_brush": "황동 브러시",
+  "item.gundurability.wd_40": "WD 40 [총기 윤활유]",
+  "effect.gundurability.checkingdurability": "내구성 점검 중",
+  "gamerule.gunbreak": "총기 파손",
+  "gamerule.gunbreak.description": "내구성이 0일 때 총이 파손되나요?",
+  "attribute.gundurability.handling": "총 조작",
+  "block.gundurability.repair_table": "수리 테이블",
+  "gui.gundurability.repair_gui.button_apply_spraybrush": "수리",
+  "item_group.gundurability.tacz_durability": "TACZ 내구성",
+  "item.gundurability.gun_barrel": "총신",
+  "item.gundurability.recoil_spring": "반동 스프링",
+  "item.gundurability.gun_bolt": "총 볼트",
+  "subtitles.jamsfx": "총기 고장"
+}

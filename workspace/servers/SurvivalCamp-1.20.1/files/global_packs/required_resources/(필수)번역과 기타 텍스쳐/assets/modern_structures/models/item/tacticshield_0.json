@@ -1,0 +1,7 @@
+{
+  "parent": "modern_structures:custom/shield_model_b",
+  "textures": {
+    "0": "modern_structures:block/texture_shield",
+    "particle": "modern_structures:item/texture_shield"
+  }
+}

@@ -1,0 +1,105 @@
+
+["Loot Tables"]
+	#item|chance to drop(1-100)|minimum amount|maximum amount. Only values above 0 will be taken in consideration.
+	"Infected Human" = []
+	"Infected Drowned" = []
+	"Infected Villager" = []
+	"Infected Pillager" = []
+	"Infected Witch" = []
+	"Infected Wandering Trader" = []
+	"Infected Evoker" = []
+	"Infected Vindicator" = []
+	"Claw " = []
+	"Infected Adventurer" = []
+	"Infected Husk" = []
+	Plagued = []
+	Lacerator = []
+	Braiomil = []
+	Knight = []
+	Griefer = []
+	Phayres = []
+	Spitter = []
+	Slasher = []
+	Leaper = []
+	Howler = []
+	Stalker = []
+	Brute = []
+	Volatile = []
+	VervaThorn = []
+	Scavenger = []
+	Bloater = []
+	Gastgaber = []
+	Specter = []
+	Construct = []
+	Scamper = []
+	Sieger = []
+	Howitzer = []
+	Gazenbrecher = []
+	Hindenburg = []
+	"Sieger Tail" = []
+	"Gazen Tongue" = []
+	"Howitzer Leg loot" = []
+	"Proto Hivemind" = []
+	Jagdhund = []
+	Mound = []
+	Vigil = []
+	Umarmer = []
+	Usurper = []
+	Wendigo = []
+	Inquisitor = []
+	Brotkatze = []
+	Braurei = []
+	"Organite Block" = []
+	Innards = []
+
+[Others]
+	"Infected Player possible names" = ["코리아", "듀량", "에그", "빅스", "잭", "바스", "하로보", "노른자", "쿠키", "알수있을거임", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
+	#Items|chance of giving
+	"Head Slot" = ["modern_structures:tactic_helmet|20"]
+	"Chest Slot" = ["modern_structures:tactic_chestplate|20"]
+	"Legs Slot" = ["modern_structures:tactic_boots|20"]
+	"Boots Slot" = ["modern_structures:tactic_boots|20"]
+	"MainHand Slot" = ["zombiekit:rake|10", "zombiekit:crowbar|15", "zombiekit:baseball_bat|15", "zombiekit:studded_baseball_bat|10", "zombiekit:knife|10", "zombiekit:machete|10"]
+	"OffHand Slot" = ["minecraft:torch|50", "minecraft:flint_and_steel|30", "minecraft:stone_pickaxe|30", "minecraft:stone_axe|30"]
+
+["Structure data"]
+	#Default 5
+	#Range: > 0
+	"Biomass Lump minimal kills" = 5
+	#Default 40
+	#Range: > 0
+	"Reconstructed Mind Block kills" = 40
+	#Default 32
+	#Range: > 0
+	"The range of the overgrown spawner" = 32
+	#Default 450
+	#Range: > 0
+	"The range of the Zoaholic" = 450
+	#Default 50
+	#Range: > 0
+	"The range of the Outpost watcher" = 50
+
+["Block infection"]
+	"Blocks and their infected counterparts" = ["minecraft:stone|spore:infested_stone", "minecraft:grass_block|minecraft:mycelium", "minecraft:dirt|spore:infested_dirt", "minecraft:coarse_dirt|spore:infested_dirt", "minecraft:podzol|spore:infested_dirt", "minecraft:rooted_dirt|spore:infested_dirt", "minecraft:podzol|spore:infested_dirt", "minecraft:deepslate|spore:infested_deepslate", "minecraft:sand|spore:infested_sand", "minecraft:gravel|spore:infested_gravel", "minecraft:netherrack|spore:infested_netherrack", "minecraft:end_stone|spore:infested_end_stone", "minecraft:soul_sand|spore:infested_soul_sand", "minecraft:soul_soil|spore:infested_soul_sand", "minecraft:sculk|spore:rooted_mycelium", "minecraft:red_sand|spore:infested_red_sand", "minecraft:clay|spore:infested_clay", "minecraft:cobblestone|spore:infested_cobblestone", "minecraft:cobbled_deepslate|spore:infested_cobbled_deepslate", "spore:lab_block|spore:infested_laboratory_block", "spore:lab_block1|spore:infested_laboratory_block1", "spore:lab_block2|spore:infested_laboratory_block2", "spore:lab_block3|spore:infested_laboratory_block3", "the_flesh_that_hates:flesh_block|spore:biomass_block", "the_flesh_that_hates:flesh_sand|spore:biomass_block", "the_flesh_that_hates:flesh_tree|spore:biomass_block", "the_flesh_that_hates:flesh_plank|spore:biomass_block", "the_flesh_that_hates:flesh_pile|spore:biomass_block", "the_flesh_that_hates:tumor|spore:biomass_block", "the_flesh_that_hates:purulent_tumor|spore:biomass_block"]
+
+["Cryogenic machine parameters"]
+	"Blocks and their cleaned counterparts" = ["spore:infested_stone|minecraft:stone", "minecraft:mycelium|minecraft:dirt", "spore:infested_dirt|minecraft:dirt", "spore:infested_deepslate|minecraft:deepslate", "spore:infested_sand|minecraft:sand", "spore:infested_gravel|minecraft:gravel", "spore:infested_netherrack|minecraft:netherrack", "spore:infested_end_stone|minecraft:end_stone", "spore:infested_soul_sand|minecraft:soul_sand", "spore:infested_red_sand|minecraft:red_sand", "spore:infested_clay|minecraft:clay", "spore:infested_cobblestone|minecraft:cobblestone", "spore:infested_cobbled_deepslate|minecraft:cobbled_deepslate", "spore:infested_laboratory_block|spore:lab_block", "spore:infested_laboratory_block1|spore:lab_block1", "spore:infested_laboratory_block2|spore:lab_block2", "spore:infested_laboratory_block3|spore:lab_block3"]
+	#Default 20
+	#Range: > 0
+	Range = 10
+	#Default 5
+	#Range: 0.0 ~ 1.7976931348623157E308
+	Damage = 0.2
+	#Default 12000
+	#Range: > 0
+	Ammo = 3000
+	#Default true
+	"Should the CDU create snow?" = true
+
+["Raid system parameters"]
+	"Raid level 1 spawns" = ["spore:inf_human", "spore:inf_husk", "spore:inf_drowned", "spore:inf_villager", "spore:inf_pillager", "spore:inf_player", "spore:inf_witch"]
+	"Raid level 2 spawns" = ["spore:inf_human", "spore:howler", "spore:inf_husk", "spore:knight", "spore:brute", "spore:slasher", "spore:inf_witch", "spore:braiomil", "spore:inf_villager", "spore:jagd", "spore:inf_pillager", "spore:inf_player"]
+	"Raid level 3 spawns" = ["spore:griefer", "spore:howler", "spore:thorn", "spore:busser", "spore:scavenger", "spore:bloater", "spore:knight", "spore:brute", "spore:slasher", "spore:volatile", "spore:braiomil", "spore:leaper", "spore:spitter", "spore:jagd", "spore:inf_pillager", "spore:stalker", "spore:inf_vindicator", "spore:inf_evoker"]
+	"Special Spawns" = ["spore:brot", "spore:inquisitor", "spore:gastgaber", "spore:wendigo", "spore:ogre", "spore:specter", "spore:plagued", "spore:lacerator", "spore:inf_construct"]
+	"Items that may drop at the end of the raid" = []
+

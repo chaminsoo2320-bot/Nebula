@@ -1,0 +1,1159 @@
+{
+  "attributes": {
+    "forge:step_height_addition": {
+      "enabled": false,
+      "min": {
+        "default": -512,
+        "value": -512
+      },
+      "max": {
+        "default": 512,
+        "value": 512
+      }
+    },
+    "hoths_tacz_attributes:db_long_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:kel_tec_rfb_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:generic.follow_range": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
+    "hoths_tacz_attributes:generic_gun_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:famas_f1_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:generic.luck": {
+      "enabled": true,
+      "min": {
+        "default": -1024,
+        "value": -1024
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "hoths_tacz_attributes:ad_sdamage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:m320_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "forge:entity_reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "hoths_tacz_attributes:mg42_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "tacz:tacz.bullet_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "hoths_tacz_attributes:xm8_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:m16a1_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:mk_14_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:ads_detector": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "hoths_tacz_attributes:acr_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:zombie.spawn_reinforcements": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "hoths_tacz_attributes:glock_17_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:mk47_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:generic.armor_toughness": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 20,
+        "value": 1000000
+      }
+    },
+    "hoths_tacz_attributes:pp19_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:beneli_super_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:renetti_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:deagle_golden_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:ak47x_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:hk_mp5a5_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:sa58_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:nailgun_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:p90_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:sniper_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:scar_h_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:m202_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "forge:block_reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "hoths_tacz_attributes:firemode_auto_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:generic.attack_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "hoths_tacz_attributes:energy_weapon_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:pistol_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:arx160_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:firemode_burst_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:nitro_505_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:melee_gun_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:hipfiredamage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:vector45_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:generic.flying_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "hoths_tacz_attributes:augdamage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:generic.max_health": {
+      "enabled": true,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 1024,
+        "value": 1000000
+      }
+    },
+    "hoths_tacz_attributes:machine_gun_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:mag7_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:scar_l_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:p250_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:horse.jump_strength": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
+      }
+    },
+    "hoths_tacz_attributes:shotgun_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:rpk_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:generic.knockback_resistance": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "gundurability:handling": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "hoths_tacz_attributes:msmc_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:txc_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:gauss_rifle_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "forge:entity_gravity": {
+      "enabled": false,
+      "min": {
+        "default": -8,
+        "value": -8
+      },
+      "max": {
+        "default": 8,
+        "value": 8
+      }
+    },
+    "enhancedai:generic.xray_follow_range": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 256,
+        "value": 256
+      }
+    },
+    "hoths_tacz_attributes:smg_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:ax94_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:db_short_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:mcs_spear_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:hkg3_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:deagle_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:melee_detector": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "hoths_tacz_attributes:ump45_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:ai_awp_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:colt_m1911_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:cz75_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:aa12_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:axmc_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:sg553_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:bam4_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:ultimax_100_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "parcool:stamina_recovery": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "hoths_tacz_attributes:heavy_weapons_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:generic.attack_knockback": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 5,
+        "value": 1000000
+      }
+    },
+    "forge:swim_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "forge:nametag_distance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 64,
+        "value": 64
+      }
+    },
+    "hoths_tacz_attributes:uzi_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:m200_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:lvar_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:generic.attack_damage": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 1000000
+      }
+    },
+    "minecraft:generic.armor": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 30,
+        "value": 1000000
+      }
+    },
+    "hoths_tacz_attributes:malorian_3516_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:rpg7_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:qbz191_em_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "minecraft:generic.movement_speed": {
+      "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "hoths_tacz_attributes:bal27_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:p320_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:m16a4_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:hk_41d6_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:rifle_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:firemode_semi_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:sks_tactical_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:m4a1_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "parcool:max_stamina": {
+      "enabled": false,
+      "min": {
+        "default": 10,
+        "value": 10
+      },
+      "max": {
+        "default": 10000,
+        "value": 10000
+      }
+    },
+    "hoths_tacz_attributes:m249_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:m4_sobmod_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:ray_gun_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:m95_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    },
+    "hoths_tacz_attributes:ak47_damage": {
+      "enabled": false,
+      "min": {
+        "default": -999999,
+        "value": -999999
+      },
+      "max": {
+        "default": 999999,
+        "value": 999999
+      }
+    }
+  }
+}

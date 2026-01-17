@@ -1,0 +1,23 @@
+{
+  "pack.osi.name": "装甲核心标准监视装备",
+  "pack.osi.desc": "欢迎，欢迎来到17号城市",
+
+  "osi.gun.ar2.name":"脉冲来复枪",
+  "osi.gun.ar2.desc":"地面部队注意:任务失败将导致永久转调至次世界",
+
+  "osi.gun.usp_m.name":"USP竞赛型",
+  "osi.gun.usp_m.desc":"代码603，非法侵占",
+
+  "osi.gun.mp7_cmb.name":"MP7 装甲核心改型",
+  "osi.gun.mp7_cmb.desc":"听说有时还不如手枪好使",
+
+  
+  "osi.gun.spas12.name":"SPAS 12",
+  "osi.gun.spas12.desc":"一个自由人能无视理论物理，让她同时发射两发子弹",
+
+  "osi.attachment.ammo_mod_scatter.name":"测试弹药",
+  "osi.attachment.ammo_mod_scatter.desc":"散弹测试",
+  
+  "osi.ammo.pulse.name":"§b暗能脉冲电池",
+  "osi.ammo.46x30_cmb.name":"§b装甲核心标准4.6mm子弹 "
+}

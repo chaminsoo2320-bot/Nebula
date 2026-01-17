@@ -1,0 +1,378 @@
+mode = "fancy"
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = false
+	self = true
+	tnt = "off"
+	creeper = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.block_entities]
+
+			[light_sources.settings.block_entities.minecraft]
+				bed = true
+				calibrated_sculk_sensor = true
+				furnace = true
+				dropper = true
+				daylight_detector = true
+				sign = true
+				jukebox = true
+				brewing_stand = true
+				sculk_sensor = true
+				hanging_sign = true
+				brushable_block = true
+				conduit = true
+				beehive = true
+				dispenser = true
+				smoker = true
+				lectern = true
+				skull = true
+				campfire = true
+				barrel = true
+				chest = true
+				piston = true
+				sculk_shrieker = true
+				end_portal = true
+				shulker_box = true
+				enchanting_table = true
+				banner = true
+				structure_block = true
+				sculk_catalyst = true
+				ender_chest = true
+				bell = true
+				end_gateway = true
+				comparator = true
+				beacon = true
+				command_block = true
+				jigsaw = true
+				hopper = true
+				mob_spawner = true
+				chiseled_bookshelf = true
+				trapped_chest = true
+				decorated_pot = true
+				blast_furnace = true
+
+			[light_sources.settings.block_entities.farmersdelight]
+				basket = true
+				canvas_sign = true
+				stove = true
+				cutting_board = true
+				hanging_canvas_sign = true
+				skillet = true
+				cabinet = true
+				cooking_pot = true
+
+			[light_sources.settings.block_entities.backpacked]
+				shelf = true
+
+			[light_sources.settings.block_entities.tacz]
+				statue = true
+				gun_smith_table = true
+				target = true
+
+			[light_sources.settings.block_entities.zombiekit]
+				injector = true
+
+			[light_sources.settings.block_entities.immersive_weathering]
+				icicle = true
+
+			[light_sources.settings.block_entities.spore]
+				container = true
+				hive_spawn = true
+				brain_remnants = true
+				incubator_entity = true
+				cdu = true
+				zoaholic = true
+				outpost_watcher_entity = true
+				overgrown_spawner = true
+				biomass_lump = true
+
+			[light_sources.settings.block_entities.refurbished_furniture]
+				fridge = true
+				plate = true
+				kitchen_sink = true
+				post_box = true
+				computer = true
+				range_hood = true
+				frying_pan = true
+				doorbell = true
+				stove = true
+				workbench = true
+				toaster = true
+				recycle_bin = true
+				bath = true
+				microwave = true
+				mail_box = true
+				lightswitch = true
+				electricity_generator = true
+				storage_jar = true
+				television = true
+				ceiling_fan = true
+				drawer = true
+				door_mat = true
+				crate = true
+				ceiling_light = true
+				basin = true
+				kitchen_drawer = true
+				toilet = true
+				cooler = true
+				freezer = true
+				cutting_board = true
+				cabinet = true
+				grill = true
+
+			[light_sources.settings.block_entities.horror_element_mod]
+				atmosphere_block = true
+				sound_block = true
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				zombie_horse = true
+				axolotl = true
+				zoglin = true
+				egg = true
+				spawner_minecart = true
+				allay = true
+				llama = true
+				mule = true
+				bat = true
+				husk = true
+				camel = true
+				experience_bottle = true
+				rabbit = true
+				firework_rocket = true
+				silverfish = true
+				giant = true
+				drowned = true
+				item = true
+				goat = true
+				horse = true
+				vindicator = true
+				minecart = true
+				spectral_arrow = true
+				llama_spit = true
+				mooshroom = true
+				glow_item_frame = true
+				snowball = true
+				tnt = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				tadpole = true
+				ravager = true
+				evoker_fangs = true
+				tropical_fish = true
+				chest_minecart = true
+				slime = true
+				pillager = true
+				area_effect_cloud = true
+				blaze = true
+				piglin = true
+				end_crystal = true
+				endermite = true
+				zombie = true
+				ender_pearl = true
+				item_display = true
+				guardian = true
+				fireball = true
+				illusioner = true
+				eye_of_ender = true
+				wither_skull = true
+				wolf = true
+				zombie_villager = true
+				block_display = true
+				tnt_minecart = true
+				elder_guardian = true
+				chest_boat = true
+				boat = true
+				small_fireball = true
+				strider = true
+				cave_spider = true
+				witch = true
+				cod = true
+				snow_golem = true
+				spider = true
+				command_block_minecart = true
+				panda = true
+				bee = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				frog = true
+				hoglin = true
+				armor_stand = true
+				experience_orb = true
+				dolphin = true
+				stray = true
+				turtle = true
+				shulker = true
+				salmon = true
+				wandering_trader = true
+				vex = true
+				wither_skeleton = true
+				piglin_brute = true
+				ocelot = true
+				furnace_minecart = true
+				item_frame = true
+				phantom = true
+				ender_dragon = true
+				leash_knot = true
+				evoker = true
+				marker = true
+				glow_squid = true
+				warden = true
+				squid = true
+				shulker_bullet = true
+				enderman = true
+				dragon_fireball = true
+				chicken = true
+				sniffer = true
+				trader_llama = true
+				donkey = true
+				fox = true
+				iron_golem = true
+				zombified_piglin = true
+				cat = true
+				ghast = true
+				sheep = true
+				player = true
+				pufferfish = true
+				potion = true
+				trident = true
+				villager = true
+				skeleton_horse = true
+				fishing_bobber = true
+				text_display = true
+				polar_bear = true
+				hopper_minecart = true
+				falling_block = true
+				painting = true
+				interaction = true
+				wither = true
+
+			[light_sources.settings.entities.fallingtrees]
+				tree = true
+
+			[light_sources.settings.entities.farmersdelight]
+				rotten_tomato = true
+
+			[light_sources.settings.entities.zombiekit]
+				molotov_cocktail = true
+				bile_jar = true
+				firecracker = true
+				uv_lamp = true
+				potion_jar = true
+				flare_gun = true
+				flares = true
+				heavy_machine_gun = true
+				drone = true
+				heavy_machine_gun_ammo = true
+				wrench = true
+
+			[light_sources.settings.entities.spore]
+				inf_witch = true
+				inf_husk = true
+				busser = true
+				howler = true
+				inf_drowned = true
+				hindenburg = true
+				vigil = true
+				gastgaber = true
+				inf_villager = true
+				inf_hazmat = true
+				scavenger = true
+				inf_pillager = true
+				acid = true
+				howitzer = true
+				wendigo = true
+				sieger = true
+				inf_player = true
+				lacerator = true
+				inquisitor = true
+				stinger = true
+				scent = true
+				brot = true
+				leaper = true
+				usurper = true
+				inf_wanderer = true
+				verva = true
+				inf_vindicator = true
+				thrown_spear = true
+				umarmed = true
+				reconstructor = true
+				tendril = true
+				howit_arm = true
+				braurei = true
+				slasher = true
+				bile = true
+				thrown_tumor = true
+				proto = true
+				gazenbreacher = true
+				inf_contruct = true
+				bloater = true
+				mound = true
+				acid_ball = true
+				ogre = true
+				tumoroid_nuke = true
+				braiomil = true
+				thrown_block = true
+				scamper = true
+				flesh_bomb = true
+				brute = true
+				griefer = true
+				delusioner = true
+				wave = true
+				illusion = true
+				specter = true
+				spitter = true
+				licker = true
+				inf_human = true
+				knight = true
+				inf_evoker = true
+				stalker = true
+				thorn = true
+				jagd = true
+				arena_tendril = true
+				sieger_tail = true
+				volatile = true
+				claw = true
+				spit = true
+				plagued = true
+
+			[light_sources.settings.entities.hordes]
+				zombie_player = true
+				husk_player = true
+				drowned_player = true
+
+			[light_sources.settings.entities.refurbished_furniture]
+				seat = true
+
+			[light_sources.settings.entities.enhancedai]
+				thrown_web = true
+				fishing_hook = true
+
+			[light_sources.settings.entities.tacz]
+				target_minecart = true
+				bullet = true
+
+			[light_sources.settings.entities.insanelib]
+				area_effect_cloud_3d = true
+
+			[light_sources.settings.entities.immersive_weathering]
+				falling_propagule = true
+				falling_layer = true
+				falling_icicle = true
+
+			[light_sources.settings.entities.sona]
+				sound_decoy = true
+
+			[light_sources.settings.entities.modern_structures]
+				human_2 = true
+				human = true
+

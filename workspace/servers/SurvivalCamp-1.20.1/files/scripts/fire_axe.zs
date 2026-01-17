@@ -1,0 +1,2 @@
+craftingTable.remove(<item:zombiekit:fire_axe>);
+craftingTable.addShaped("fire_axe", <item:zombiekit:fire_axe> * 1, [[<item:modern_structures:steel>, <item:modern_structures:steel>, <item:modern_structures:steel>], [<item:modern_structures:steel>, <item:minecraft:stick>, <item:minecraft:air>], [<item:minecraft:air>, <item:minecraft:stick>, <item:minecraft:air>]]);

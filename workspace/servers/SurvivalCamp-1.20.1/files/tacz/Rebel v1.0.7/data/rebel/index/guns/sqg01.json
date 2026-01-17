@@ -1,0 +1,7 @@
+{
+  "name": "rebel.gun.sqg01.name",
+  "display": "rebel:sqg01_display",
+  "data": "rebel:sqg01_data",
+  "tooltip": "rebel.gun.sqg01.desc",
+  "type": "rifle"
+}

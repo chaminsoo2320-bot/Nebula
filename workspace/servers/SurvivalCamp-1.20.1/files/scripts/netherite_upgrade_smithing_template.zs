@@ -1,0 +1,2 @@
+craftingTable.remove(<item:minecraft:netherite_upgrade_smithing_template>);
+craftingTable.addShaped("netherite_upgrade_smithing_template", <item:minecraft:netherite_upgrade_smithing_template> * 1, [[<item:modern_structures:steel>, <item:modern_structures:steel>, <item:minecraft:air>], [<item:modern_structures:steel>, <item:modern_structures:steel>, <item:minecraft:air>], [<item:modern_structures:steel>, <item:modern_structures:steel>, <item:minecraft:air>]]);

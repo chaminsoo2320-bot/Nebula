@@ -1,0 +1,1 @@
+craftingTable.addShaped("gas_tank", <item:zombiekit:gas_tank> * 1, [[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>], [<item:minecraft:air>, <item:modern_structures:steel>, <item:minecraft:air>], [<item:modern_structures:steel>, <item:minecraft:tnt>, <item:modern_structures:steel>]]);

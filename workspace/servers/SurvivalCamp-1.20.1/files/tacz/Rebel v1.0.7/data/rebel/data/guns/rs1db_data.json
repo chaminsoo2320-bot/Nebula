@@ -1,0 +1,95 @@
+{
+  "ammo": "rebel:20shdb",
+  "ammo_amount": 4,
+  "bolt": "manual_action",
+  "rpm": 130,
+  "bullet": {
+    "life": 0.5,
+    "bullet_amount": 18,
+    "damage": 36,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0,
+      "head_shot_multiplier": 1.1,
+      "damage_adjust": [
+        {"distance": 10, "damage": 36},
+        {"distance": 20, "damage": 31.5},
+        {"distance": 25, "damage": 27},
+        {"distance": 35, "damage": 22.5},
+        {"distance": 45, "damage": 18},
+        {"distance": "infinite", "damage": 9}
+      ]
+    },
+    "speed": 130,
+    "gravity": 0.098,
+    "knockback": 0.15,
+    "friction": 0.05,
+    "ignite": true,
+    "ignite_entity_time": 5,
+    "pierce": 1
+  },
+  "script": "rebel:rs1_gun_logic",
+  "script_param": {
+   "bolt_time": 0.5,
+    "bolt_feed_time": 0.3,
+    "intro_empty": 2.3,
+    "intro": 0.77,
+    "loop": 1,
+    "ending": 0.95,
+    "intro_empty_feed": 1.35,
+    "loop_feed": 0.25
+  },
+ "draw_time": 0.5,
+  "put_away_time": 0.55,
+  "aim_time": 0.15,
+  "sprint_time": 0.2,
+  "bolt_action_time": 0.58,
+  "weight": 3,
+  "fire_mode": [
+    "semi"
+  ],
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [4.5, 4.5]},
+      {"time": 0.32, "value": [4.5, 4.5]},
+      {"time": 0.57, "value": [-0.5, -0.5]},
+      {"time": 0.82, "value": [0.25, 0.25]},
+      {"time": 1.17, "value": [0, 0]},
+      {"time": 1.47, "value": [0, 0]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.9, -0.75]},
+      {"time": 0.32, "value": [-0.9, -0.75]},
+      {"time": 0.57, "value": [0, 0]}
+    ]
+  },
+
+  "melee": {
+    "distance": 1,
+    "cooldown": 0.7,
+    "default": {
+      "animation_type": "melee_push",
+      "distance": 3,
+      "range_angle": 40,
+      "cooldown": 0,
+      "damage": 4,
+      "knockback": 0.5,
+      "prep": 0.1
+    }
+  },
+  "allow_attachment_types": [
+
+    "scope",
+    "muzzle"
+
+  ],
+
+  "inaccuracy": {
+    "stand": 5,
+    "move": 5,
+    "sneak": 5,
+    "lie": 5,
+    "aim": 4
+  }
+
+}

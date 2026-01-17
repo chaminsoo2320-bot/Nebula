@@ -1,0 +1,1 @@
+craftingTable.addShaped("skeleton_skull", <item:minecraft:skeleton_skull> * 1, [[<item:minecraft:bone>, <item:minecraft:bone>, <item:minecraft:bone>], [<item:minecraft:bone>, <item:minecraft:soul_sand>, <item:minecraft:bone>], [<item:minecraft:bone>, <item:minecraft:bone>, <item:minecraft:bone>]]);

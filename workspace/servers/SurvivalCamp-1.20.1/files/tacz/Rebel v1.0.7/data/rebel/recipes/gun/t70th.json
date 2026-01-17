@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "forge:ingots/iron"
+      },
+      "count": 45
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 35
+    },
+    {
+      "item": {
+        "item": "minecraft:white_dye"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "item": "minecraft:lever"
+      },
+      "count": 2
+    },
+    {
+      "item": {
+        "item": "minecraft:anvil"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:green_dye"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:dusts/redstone"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "tag": "forge:gems/lapis"
+      },
+      "count": 10
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "rebel:t70th"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,27 @@
+﻿{
+  "item.largemeals.raw_mutton_rack": "익히지 않은 양갈비",
+  "item.largemeals.cooked_mutton_rack": "익힌 양갈비",
+
+  "item.largemeals.pufferfish_broth": "복어 스튜",
+  "item.largemeals.potato_soup": "감자 수프",
+  "item.largemeals.red_soup": "레드 수프",
+  "item.largemeals.tomato_egg_soup": "토마토 계란 수프",
+
+  "item.largemeals.cod_deluxe": "대구 볶음밥",
+  "item.largemeals.hearty_lunch": "푸짐한 점심",
+  "item.largemeals.chicken_curry": "치킨 카레",
+  "item.largemeals.pasta_with_mushroom_sauce": "버섯 소스 파스타",
+
+  "block.largemeals.omurice_block": "오므라이스",
+  "item.largemeals.omurice": "그릇에 담긴 오므라이스",
+  "block.largemeals.mushroom_pot_pie_block": "버섯 포트 파이",
+  "item.largemeals.mushroom_pot_pie": "버섯 포트 파이 한 접시",
+  "block.largemeals.roasted_mutton_rack_block": "익힌 양갈비",
+  "item.largemeals.roasted_mutton_rack": "익힌 양갈비 한 접시",
+
+  "item.largemeals.sweet_berry_custard": "달콤한 베리 커스터드",
+  "item.largemeals.rice_pudding": "쌀 푸딩",
+
+  "largemeals.advancement.get_mutton_rack": "양갈비 도살자",
+  "largemeals.advancement.get_mutton_rack.desc": "칼을 사용하여 양에서 갈비부분을 추출하세요"
+}

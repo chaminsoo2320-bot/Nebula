@@ -1,0 +1,11 @@
+________________________________
+Update 1.0.0
+
+Added:
+- icons.png
+- widgets.png
+--------
+Removed:
+--------
+Changed:
+--------

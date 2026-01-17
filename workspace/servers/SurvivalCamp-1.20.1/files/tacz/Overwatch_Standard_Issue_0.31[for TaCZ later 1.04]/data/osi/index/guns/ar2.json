@@ -1,0 +1,8 @@
+{
+  "name": "osi.gun.ar2.name",
+  "display": "osi:ar2_display",
+  "data": "osi:ar2_data",
+  "type": "rifle",
+  "tooltip": "osi.gun.ar2.desc",
+  "sort": 2
+}

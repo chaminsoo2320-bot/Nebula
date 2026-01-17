@@ -1,0 +1,2 @@
+craftingTable.remove(<item:zombiekit:chainsaw>);
+craftingTable.addShaped("chainsaw", <item:zombiekit:chainsaw> * 1, [[<item:minecraft:chain>, <item:zombiekit:special_steel_sheet>, <item:minecraft:chain>], [<item:minecraft:chain>, <item:zombiekit:battery>, <item:minecraft:chain>], [<item:zombiekit:plastics>, <item:spore:circuit_board>, <item:zombiekit:plastics>]]);

@@ -1,0 +1,1 @@
+craftingTable.addShaped("ghast_tear", <item:minecraft:ghast_tear> * 1, [[<item:minecraft:blaze_powder>, <item:minecraft:quartz>, <item:minecraft:blaze_powder>], [<item:minecraft:quartz>, <item:farmersdelight:onion>, <item:minecraft:quartz>], [<item:minecraft:blaze_powder>, <item:minecraft:quartz>, <item:minecraft:blaze_powder>]]);

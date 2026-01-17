@@ -1,0 +1,25 @@
+{
+  "materials": [
+    {
+      "item": {
+        "type": "forge:partial_nbt",
+        "item": "tacz:modern_kinetic_gun",
+        "nbt": {
+          "GunId": "rebel:rs1"
+        }
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:stick"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "rebel:rs1db"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "entity": "minecraft:zombie",
+    "dimension": "minecraft:overworld",
+    "conditions": [
+      {
+        "type": "time",
+        "value": 24000,
+        "operator": ">="
+      }
+    ]
+  }
+]

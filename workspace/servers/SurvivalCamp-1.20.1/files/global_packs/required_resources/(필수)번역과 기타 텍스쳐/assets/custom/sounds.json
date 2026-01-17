@@ -1,0 +1,11 @@
+{
+  "audio1": {
+    "sounds": [ "custom:space" ]
+  },
+  "siren": {
+    "sounds": [ "custom:siren" ]
+  },
+  "hordebgm": {
+    "sounds": [ "custom:hordebgm" ]
+  }
+}

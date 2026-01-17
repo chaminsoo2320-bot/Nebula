@@ -1,0 +1,59 @@
+{
+  "model": "rebel:gun/c23_geo",
+  "texture": "rebel:gun/uv/c23",
+  "hud": "rebel:gun/hud/c23",
+  "slot": "rebel:gun/slot/c23",
+  "animation": "rebel:c23",
+  "use_default_animation": "rifle",
+  "player_animator_3rd": "tacz:rifle_default.player_animation",
+  "transform": {
+    "scale": {
+      "thirdperson": [0.6, 0.6, 0.6],
+      "ground": [0.6, 0.6, 0.6],
+      "fixed": [1, 1, 1]
+    }
+  },
+ "shell": {
+           
+            "initial_velocity": [3, 1, -2],
+           
+            "random_velocity": [8, 3, 0.25],
+           
+            "acceleration": [0.0, -15, 0.0],
+           
+            "angular_velocity": [360, -1200, 90],
+           
+            "living_time": 1.5
+        },
+        
+  "muzzle_flash": {
+    "texture": "tacz:flash/common_muzzle_flash",
+    "scale": 1.5
+  },
+  "sounds": {
+    "reload_empty": "rebel:c23/c23_reload_empty",
+    "reload_tactical": "rebel:c23/c23_reload_tactical",
+    "inspect": "rebel:c23/c23_inspect",
+    "inspect_empty": "rebel:c23/c23_inspect_empty",
+    "draw": "rebel:c23/c23_draw",
+    "put_away": "rebel:c23/c23_put_away",
+    "dry_fire": "rebel:dry_fire",
+    "flesh_hit": "rebel:flesh_hit",
+    "head_hit": "rebel:head_hit",
+    "kill": "rebel:kill",
+    "shoot": "rebel:c23/c23_shoot",
+    "shoot_3p": "rebel:c23/c23_shoot_3p"
+  },
+  "offhand_show": {
+    "pos": [4, 13, -2],
+    "rotate": [-90, -35, 90],
+    "scale": [0.5, 0.5, 0.5]
+  },
+  "hotbar_show": {
+    "0": {
+      "pos": [-5, 13, -2],
+      "rotate": [-90, -35, 90],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

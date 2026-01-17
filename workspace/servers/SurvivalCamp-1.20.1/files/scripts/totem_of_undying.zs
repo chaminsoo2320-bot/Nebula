@@ -1,0 +1,1 @@
+craftingTable.addShaped("totem_of_undying", <item:minecraft:totem_of_undying> * 1, [[<item:minecraft:emerald>, <item:minecraft:gold_ingot>, <item:minecraft:emerald>], [<item:minecraft:gold_ingot>, <item:minecraft:diamond_block>, <item:minecraft:gold_ingot>], [<item:minecraft:air>, <item:minecraft:gold_ingot>, <item:minecraft:air>]]);

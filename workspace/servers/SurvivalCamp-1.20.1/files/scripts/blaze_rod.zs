@@ -1,0 +1,1 @@
+craftingTable.addShaped("blaze_rod", <item:minecraft:blaze_rod> * 1, [[<item:minecraft:flint>, <item:minecraft:gold_ingot>, <item:minecraft:flint>], [<item:minecraft:gold_ingot>, <item:minecraft:stick>, <item:minecraft:gold_ingot>], [<item:minecraft:flint>, <item:minecraft:gold_ingot>, <item:minecraft:flint>]]);

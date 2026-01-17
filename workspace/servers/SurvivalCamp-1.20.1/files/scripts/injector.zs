@@ -1,0 +1,2 @@
+craftingTable.remove(<item:zombiekit:injector>);
+craftingTable.addShaped("injector", <item:zombiekit:injector> * 1, [[<item:minecraft:blaze_rod>, <item:minecraft:lodestone>, <item:minecraft:blaze_rod>], [<item:minecraft:blaze_rod>, <item:spore:brain_remnants>, <item:minecraft:blaze_rod>], [<item:minecraft:blaze_rod>, <item:refurbished_furniture:dark_electricity_generator>, <item:minecraft:blaze_rod>]]);

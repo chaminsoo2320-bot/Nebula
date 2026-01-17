@@ -1,0 +1,16 @@
+{
+    
+    "name": "rebel.gun.ras1.name",
+   
+    "display": "rebel:ras1_display",
+
+    "data": "rebel:ras1_data",
+
+    "tooltip": "rebel.gun.ras1.desc",
+   
+    "type": "shotgun",
+
+    "item_type": "modern_kinetic",
+
+    "sort": 10
+}

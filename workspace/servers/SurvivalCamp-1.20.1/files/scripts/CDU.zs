@@ -1,0 +1,2 @@
+craftingTable.remove(<item:spore:cdu>);
+craftingTable.addShaped("CDU", <item:spore:cdu> * 1, [[<item:spore:circuit_board>, <item:zombiekit:gas_tank>, <item:zombiekit:battery>], [<item:spore:compound_plate>, <item:refurbished_furniture:light_electricity_generator>, <item:spore:compound_plate>], [<item:minecraft:diamond_block>, <item:minecraft:diamond_block>, <item:minecraft:diamond_block>]]);

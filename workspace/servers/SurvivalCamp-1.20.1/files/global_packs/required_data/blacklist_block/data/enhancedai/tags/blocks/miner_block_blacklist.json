@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "spore:membrane_block",
+	"minecraft:bedrock",
+	"simple_hardcore_respawn:re_spawner",
+	"minecraft:vine",
+	"minecraft:twisting_vines",
+	"minecraft:hanging_roots"
+  ]
+}

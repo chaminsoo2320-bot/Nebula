@@ -1,0 +1,1 @@
+craftingTable.addShapeless("wither_skeleton_skull", <item:minecraft:wither_skeleton_skull> * 1, [<item:minecraft:coal_block>, <item:minecraft:coal_block>, <item:minecraft:coal_block>, <item:minecraft:coal_block>, <item:minecraft:skeleton_skull>, <item:minecraft:coal_block>, <item:minecraft:coal_block>, <item:minecraft:coal_block>, <item:minecraft:coal_block>]);

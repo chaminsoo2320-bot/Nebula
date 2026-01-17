@@ -1,0 +1,1 @@
+craftingTable.addShaped("night_vision_Tan", <item:luminouslenses:gpnvgtan_helmet> * 1, [[<item:zombiekit:plastics>, <item:zombiekit:plastics>, <item:zombiekit:plastics>], [<item:minecraft:amethyst_shard>, <item:spore:circuit_board>, <item:minecraft:amethyst_shard>], [<item:mcore:titanium_ingot>, <item:mcore:titanium_ingot>, <item:mcore:titanium_ingot>]]);
