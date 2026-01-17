@@ -4365,61 +4365,6 @@
           }
         },
         {
-          "id": ".unpack_finished",
-          "name": ".unpack_finished",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://chaminsoo2320-bot.github.io/FTP/servers/SurvivalCamp-1.20.1/files/config/worldedit/.archive-unpack/2e1dd752/.unpack_finished",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "config/worldedit/.archive-unpack/2e1dd752/.unpack_finished"
-          }
-        },
-        {
-          "id": "asd.schem",
-          "name": "asd.schem",
-          "type": "File",
-          "artifact": {
-            "size": 828,
-            "url": "https://chaminsoo2320-bot.github.io/FTP/servers/SurvivalCamp-1.20.1/files/config/worldedit/schematics/asd.schem",
-            "MD5": "d7d5204f44dc6ee1db498bd127699c83",
-            "path": "config/worldedit/schematics/asd.schem"
-          }
-        },
-        {
-          "id": "horde.schem",
-          "name": "horde.schem",
-          "type": "File",
-          "artifact": {
-            "size": 2386,
-            "url": "https://chaminsoo2320-bot.github.io/FTP/servers/SurvivalCamp-1.20.1/files/config/worldedit/schematics/horde.schem",
-            "MD5": "9657f692c878de88f21d827f1c39ca6d",
-            "path": "config/worldedit/schematics/horde.schem"
-          }
-        },
-        {
-          "id": "Orange.schem",
-          "name": "Orange.schem",
-          "type": "File",
-          "artifact": {
-            "size": 6246,
-            "url": "https://chaminsoo2320-bot.github.io/FTP/servers/SurvivalCamp-1.20.1/files/config/worldedit/schematics/Orange.schem",
-            "MD5": "eba0a5e55ae7c6d1b1ea4294bdc73b30",
-            "path": "config/worldedit/schematics/Orange.schem"
-          }
-        },
-        {
-          "id": "worldedit.properties",
-          "name": "worldedit.properties",
-          "type": "File",
-          "artifact": {
-            "size": 2541,
-            "url": "https://chaminsoo2320-bot.github.io/FTP/servers/SurvivalCamp-1.20.1/files/config/worldedit/worldedit.properties",
-            "MD5": "0f6f00e7fca375e3cecdd71b8588a409",
-            "path": "config/worldedit/worldedit.properties"
-          }
-        },
-        {
           "id": "xaerominimap-common.txt",
           "name": "xaerominimap-common.txt",
           "type": "File",
